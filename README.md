@@ -37,3 +37,7 @@
 - A comprehensive collection of NLP and chatbot building services.
 - NLP engine, digital assistant and bot builder.
 - Offers GUI to easily create bots and models a bot's conversational flow.
+
+### Important Terms:
+
+`SAP HANA ML - PAL` ( Predective Analysis Library )
