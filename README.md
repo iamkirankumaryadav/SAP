@@ -33,7 +33,7 @@
 - `Unattended` : Fully automated process, where robots are working autonomously with human supervision only ( Operates in batches )
 - `Attended` : Partially automated process, where robots are co working with humans ( RDA | Robotic Desktop Automation )
 
-### 3. SAP Conversion AI `CAI`
+### 3. SAP Conversational AI `CAI`
 - A comprehensive collection of NLP and chatbot building services.
 - NLP engine, digital assistant and bot builder.
 - Offers GUI to easily create bots and models a bot's conversational flow.
