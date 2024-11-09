@@ -5,29 +5,40 @@
 ### Key Features and Capabilities:
 
 1. **Data and Analytics:**
+- SAP HANA and Analytics Cloud 
 - Data integration and ingestion
-- Data quality management
-- Data governance and security
-- Advanced analytics and machine learning
-- Data visualization and reporting
+- Data quality management, governance and security
+- Advanced analytics, AI, ML, and NLP
+- BI (Data visualization and reporting)
 
 2. **Application Development:**
-- Low-code/no-code development tools
-- Pro-code development environments
+- Low-code/no-code development tools (SAP Build Apps, SAP Build Work Zone)
+- Pro-code development environments (SAP Business Application Studio)
+- Runtimes (Cloud Foundry, ABAP)
+- DevOps Services (SAP CI/CD, SAP Automation Pilot)
 - Integration with SAP and third-party systems
 - Mobile app development
 - AI-powered application development
 
 3. **Integration:**
+- SAP Integration Suite
+- SAP Business Accelerator Hub
 - API management
 - Integration flows and processes
 - Event-driven architecture
 - B2B integration
 
 4. **Automation:**
-- Robotic process automation (RPA)
-- Intelligent automation
-- Workflow automation
+- SAP Build Process Automation (BPA)
+- SAP Robotic Process Automation (RPA)
+- Intelligent Automation
+- Workflow Automation
+- SAP Task Center
+
+5. **AI**
+- SAP AI Core
+- SAP AI Launchpad
+- SAP AI Business Services
 
 ### Benefits of SAP BTP
 - **Accelerated Innovation:** Rapidly build and deploy new applications and solutions.
