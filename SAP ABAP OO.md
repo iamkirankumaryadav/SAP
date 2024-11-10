@@ -1,12 +1,11 @@
 # ABAP OO (Object-Oriented ABAP)  
-- A programming paradigm that allows developers to structure their code in a more modular, reusable, and maintainable way.
-- It introduces concepts like **classes**, **objects**, **inheritance**, **polymorphism**, and **encapsulation** to the ABAP language.
+A programming paradigm that allows developers to structure their code in a modular, and reusable way.
 
 ### Key Concepts in ABAP OO
 
 1. **Class:**
-- A **blueprint/prototype** for declaring and creating **objects**.
-- Defines the **attributes/properties/variables** (data) and **methods/actions** (functions) that objects of that class will have.
+- A **blueprint/prototype** for declaring/creating **objects**.
+- Defines the **attributes/properties/variables** (data) and **methods/actions/behaviour** (functions) that objects of that class will have.
 - **Methods:** A function defined inside a class.
 - Example: Person (Class): Attributes(Name, Age, Gender, Role) and Method (Walk(), Eat(), Sleep(), Work())
 
