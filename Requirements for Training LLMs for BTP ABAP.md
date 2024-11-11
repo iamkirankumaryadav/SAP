@@ -1,7 +1,7 @@
 # Requirements for Training or Fine-Tuning LLMs for BTP ABAP
-- Training or fine-tuning a LLM for BTP ABAP requires a significant investment in computational resources, data, and expertise.
+- Training or fine-tuning an LLM for BTP ABAP requires a significant investment in computational resources, data, and expertise.
 
-### Computational Resources:**
+### Computational Resources
 1. **Powerful Hardware:** 
 - LLMs are computationally intensive.
 - You'll need high-performance GPUs (like NVIDIA A100 or H100) and significant CPU power.
@@ -23,12 +23,12 @@
 - The data must be cleaned, preprocessed, and formatted to be suitable for training.
 
 ### Expertise and Skills
-- **Machine Learning Engineers:** Experts in ML, DL, and NLP.
+- **Machine Learning Engineers:** ML, DL, and NLP Experts.
 - **ABAP Developers:** Deep understanding of ABAP syntax, semantics, and best practices.
 - **Data Scientists:** For data cleaning, preprocessing, and feature engineering.
 
 ### Model Architecture
-- **Foundation Model:** A pre-trained LLM like GPT-3 or Jurassic-1 can be used as a starting point.
+- **Foundation Model:** A pre-trained LLM like GPT-3 or Jurassic-1 can be a starting point.
 - **Custom Architecture:** You may need to design a custom architecture tailored to ABAP-specific tasks.
 
 ### Fine-Tuning Techniques
@@ -37,6 +37,6 @@
 - **Hyperparameter Tuning:** Optimizing hyperparameters like learning rate, batch size, and number of epochs.
 
 ### Additional Considerations
-- **Ethical Considerations:** Ensure the model is trained on diverse and unbiased data to avoid biases in its outputs.
+- **Ethical Considerations:** Ensure the model is trained on diverse and unbiased data to avoid output biases.
 - **Data Privacy and Security:** Protect sensitive ABAP code and proprietary information.
 - **Model Deployment:** Consider the deployment environment, infrastructure, and monitoring tools.
