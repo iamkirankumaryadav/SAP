@@ -12,12 +12,12 @@
 3. **Deep Learning Framework:** 
 - A robust framework like TensorFlow or PyTorch is essential for building and training the model.
 
-### High-Quality Data:**
+### High-Quality Data
 1. **ABAP Code Corpus:** 
 - A large and diverse dataset of ABAP code, including syntax, semantics, and domain-specific knowledge.
 
 2. **Annotated Data:** 
-- For supervised learning, you'll need data that's labeled with specific tasks, such as code generation, code completion, or bug detection.
+- For supervised learning, you'll need data that's labelled with specific tasks, such as code generation, code completion, or bug detection.
 
 3. **Data Cleaning and Preprocessing:** 
 - The data must be cleaned, preprocessed, and formatted to be suitable for training.
